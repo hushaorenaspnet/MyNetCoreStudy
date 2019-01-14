@@ -28,3 +28,4 @@ D:\DonetCoreStudy\MyNetCoreStudy\MyNetCoreStudy\bin\Debug\netcoreapp2.2\MyNetCor
 D:\DonetCoreStudy\MyNetCoreStudy\MyNetCoreStudy\bin\Debug\netcoreapp2.2\MyNetCoreStudy.Views.pdb
 D:\DonetCoreStudy\MyNetCoreStudy\MyNetCoreStudy\obj\Debug\netcoreapp2.2\MyNetCoreStudy.Views.pdb
 D:\DonetCoreStudy\MyNetCoreStudy\MyNetCoreStudy\obj\Debug\netcoreapp2.2\MyNetCoreStudy.csproj.CopyComplete
+D:\DonetCoreStudy\MyNetCoreStudy\MyNetCoreStudy\obj\Debug\netcoreapp2.2\Razor\Pages\OtherPages\Page1.g.cshtml.cs
